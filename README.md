@@ -68,7 +68,6 @@ f(x, y) = x^2 + y^2
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/PSO-Minimization.git
-   cd PSO-Minimization
 
 2. Install necessary dependencies (if any).
 
@@ -148,7 +147,6 @@ f(x, y) = x^2 + y^2
 1. Bu depoyu klonlayın:
    ```bash
    git clone https://github.com/yourusername/PSO-Minimization.git
-   cd PSO-Minimization
 
 2. Gerekli bağımlılıkları kurun (varsa).
 
